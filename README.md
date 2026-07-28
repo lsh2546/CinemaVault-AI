@@ -25,7 +25,7 @@ Key capabilities: **Version History / Fast Retrieval / Persistent Assets**
 
 ## Demo
 
-- YouTube: https://youtu.be/DQn0yJsJQpA
+- YouTube: https://youtu.be/qJtUO119a0c
 - `demo.mp4` - 110-second 1280x720 demo with cinematic music, sound effects, and burned-in English captions
 - `demo_upload.mp4` - YouTube-ready copy
 - `thumbnail.png` - 1500x1000 (3:2) Devpost/YouTube representative image
