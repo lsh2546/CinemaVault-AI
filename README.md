@@ -3,7 +3,7 @@
 **Consistent AI filmmaking powered by Backblaze B2.**
 
 CinemaVault AI stores every generated filmmaking asset: characters, scenes, props,
-prompts, audio, style references, and video?봧n Backblaze B2. When a new scene is
+prompts, audio, style references, and video in Backblaze B2. When a new scene is
 generated, the system retrieves and reuses the approved assets automatically,
 preserving identity, environment, and visual style across the film.
 
